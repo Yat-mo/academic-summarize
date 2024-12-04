@@ -24,7 +24,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/academic-summarize.git
+git clone https://github.com/Yat-mo/academic-summarize.git
 cd academic-summarize
 ```
 
