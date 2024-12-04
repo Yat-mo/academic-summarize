@@ -1,0 +1,20 @@
+pdf_summarizer:
+  # 输入和输出目录配置
+  input_dir: "论文输入区"
+  output_dir: "论文总结区"
+
+  # 文本处理配置
+  max_chars_per_segment: 10000
+  max_retries: 3
+
+  # OpenAI模型配置
+  model: "gpt-4o-mini-2024-07-18"
+  temperature: 0.7
+  max_tokens: 4000
+
+  # 日志配置
+  log_level: "INFO"
+  log_file: "paper_summarizer.log"
+
+  # 语言配置
+  summary_language: "zh"  # 可选：zh, en
