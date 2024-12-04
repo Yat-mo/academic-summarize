@@ -14,7 +14,7 @@
 
 ### Installation
 ```bash
-git clone [https://github.com/yourusername/academic-summarize.git](https://github.com/Yat-mo/academic-summarize.git)
+git clone https://github.com/Yat-mo/academic-summarize.git
 cd academic-summarize
 python3 -m venv venv
 source venv/bin/activate
